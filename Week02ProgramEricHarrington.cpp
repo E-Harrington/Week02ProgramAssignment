@@ -45,7 +45,7 @@ const double cheeseProfit = 1.45;
 int main()
 {
    // Step 2 
-   string title = "Welcome to my Cheesy Program";
+   string title = "Welcome to the Alternately Titled Cheese Program";
    //Step 3
    int titleSpacing = (100 - title.length()) / 2; //This value will help center the title while also keeping the number of rows used to 100
 
